@@ -1,0 +1,24 @@
+{
+    "name": "chip-8-web-emulator",
+    "version": "1.0.0",
+    "description": "Another Chip-8 interpreter web emulator",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/RolindaW/chip-8-web-emulator.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "type": "module",
+    "bugs": {
+        "url": "https://github.com/RolindaW/chip-8-web-emulator/issues"
+    },
+    "homepage": "https://github.com/RolindaW/chip-8-web-emulator#readme",
+    "dependencies": {
+        "jest": "^30.0.0-beta.3"
+    }
+}

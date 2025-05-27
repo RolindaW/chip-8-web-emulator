@@ -70,7 +70,7 @@ Introduction - TODO
 
 - Git
 - Hosting: GitHub
-- Integration: Feature branch
+- Integration: Continuous Integration
 - Release (TBD): (Healthy) Mainline to production with tags vs. Release branch vs. Hybrid (tags by default; release branch when required e.g. hotfix specific version)
 
 ### Tool version manager
